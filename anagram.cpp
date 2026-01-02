@@ -21,7 +21,7 @@ bool isAnagram(string s, string t) {
 
 int main() {
     cout << isAnagram("note", "tone") << endl;
-    cout << isAnagram("act", "cat") << endl;
+    cout << isAnagram("rat", "cat") << endl;
     return 0;
 }
 
